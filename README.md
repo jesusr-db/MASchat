@@ -22,7 +22,7 @@ A Databricks App built with Chainlit that provides an intelligent chat interface
 
 ## Example (SAMPLE DUMMY DATA)
 
-![Demo](demo.gif)
+![Demo]()
 
 ## Quick Start
 
