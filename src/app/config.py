@@ -43,8 +43,8 @@ class Settings(BaseSettings):
     history_max_chars: int = 120000
 
     chat_starter_messages: List[Dict[str, str]] = [
-        {"label": "Revenue Analytics", "message": "Analyze the overall revenue by Segments in 2024"}, 
-        {"label": "Route Performance", "message": "Analyze the performance of FLL to LAS in 2024"}
+        {"label": "Consumer Trends", "message": "Analyze the overall consumer trends after COVID"}, 
+        {"label": "Store Performance", "message": "Provide overview of sales data and overall trends in my stores"}
     ]
 
     # Local Only
