@@ -8,7 +8,7 @@ env:
     value: "bi-agent-chat-session-jmr"
 
   - name: SERVING_ENDPOINT
-    value: "mas-2ff78704-endpoint"
+    value: "mas-78525ed8-endpoint"
 
   - name: ENABLE_HEADER_AUTH
     value: true
