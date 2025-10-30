@@ -44,7 +44,7 @@ targets:
     mode: development
     default: true
     workspace:
-      host: https://fe-vm-vdm-serverless-7hq9j4.cloud.databricks.com
+      host: https://fe-vm-vdm-classic-rikfy0.cloud.databricks.com
     
     resources:
       jobs:
